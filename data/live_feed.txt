@@ -1,0 +1,1 @@
+Grid event: Substation-1 load increased to 15.2 MW.
